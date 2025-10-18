@@ -16,3 +16,17 @@ Had to find an old nunchuk to see what it actually had on it. It has two buttons
 ![Screenshot 2025-10-15 at 9.15.24 AM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjM0NSwicHVyIjoiYmxvYl9pZCJ9fQ==--b52f7a69ac73b2e411b73ae405ce40652c4d364d/Screenshot%202025-10-15%20at%209.15.24%E2%80%AFAM.png)
 I already have all of these components from a birthday present, so I don't need funding on this one.  
 
+## 10/18/2025 - BOM and other things  
+
+Copied some 3d scans into blender, then brushed up some things. I sketched some basic printouts and buttons, I don't intend for this thing to be glamorous, just functional. I got my supplies together today. They include:
+
+- 1 of those joy cons that break constantly
+- 1 LED
+- Resistors for that LED
+- 2 buttons from an old mouse
+
+I took the measurements, then threw them out the window and eyeballed it. I don't have a ton of time, so I just gunned it to the finish line for the CAD design phase.
+Here's what I have:
+![Screenshot 2025-10-18 at 6.55.25 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzExNiwicHVyIjoiYmxvYl9pZCJ9fQ==--cd8f86f1f07e0e2e8ead2d12cf427b5c677cc543/Screenshot%202025-10-18%20at%206.55.25%E2%80%AFPM.png)
+  
+
