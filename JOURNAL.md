@@ -30,3 +30,14 @@ Here's what I have:
 ![Screenshot 2025-10-18 at 6.55.25 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzExNiwicHVyIjoiYmxvYl9pZCJ9fQ==--cd8f86f1f07e0e2e8ead2d12cf427b5c677cc543/Screenshot%202025-10-18%20at%206.55.25%E2%80%AFPM.png)
   
 
+## 10/19/2025 - Fabed and Finished  
+
+![img.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzExOCwicHVyIjoiYmxvYl9pZCJ9fQ==--b51dbe5c68e3e073b938156f87af2a85f617711f/img.jpg)
+### Fab
+I printed the left half on an X1, hot glued in the buttons & joy stick into position, put the 3d printed buttons into place, ran a USBC cable out the back, then glued the right half onto it.
+### Code
+I wrote some code, now it is finished. Not much else to say, it works like a charm except if I redid it I would have used actual buttons. There's got to be a better way.
+Other than that, I printed, designed, and coded it. My ADHD won't allow me to revisit this for a bit. Everything just kinda worked. Don't ask me to take it apart, there's too much glue!
+### Function
+I can press on both the Z and C buttons to change it into a pointer controller for my computer. The other mode is a wasd controller for games and stuff. Pressing the joy stick jumps and z and c are left and right click respectively.  
+
