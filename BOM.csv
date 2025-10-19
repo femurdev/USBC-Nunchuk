@@ -1,0 +1,11 @@
+Item,Quantity,Part Name,Description,Source / Notes,Link
+1,1,Arduino Micro,Main microcontroller board controlling input/output,Official Arduino or clone,https://store.arduino.cc/products/arduino-micro
+2,1,PS3 Joystick Module,"Analog joystick with push button (X, Y, SW pins)",Common module / salvage or Amazon/eBay/Nexus,https://www.amazon.com/dp/B00PNEQKC0/
+3,2,Push Button Switch,Small tactile push buttons salvaged from a mouse or similar,Any small tact switch / M187 compatible,https://www.logitech.com/en-us/products/mice/m187-mini-wireless-mouse.910-005360.html
+4,1,Breadboard,"Mini breadboard (170 pins, 17x5x2 layout)",Standard mini solderless breadboard,https://www.adafruit.com/product/65
+5,1,USB Cable,USB-C/B to Micro-B cable,Used for both programming and final connection,https://www.amazon.com/dp/B07G5JV2B5
+6,3,LED,"5 mm LEDs (Green, Yellow, Red)",Generic LEDs,https://www.adafruit.com/product/297
+7,1,Resistor,220 Ω resistor,Used to limit current to LEDs,https://www.digikey.com/en/products/detail/yageo/MFR-25FBF52-220R/2058889
+8,1,Hot Glue Gun,Used for assembly and structural bonding,Any standard hot glue gun with glue sticks,https://www.amazon.com/dp/B000NPIMW8
+9,1,Set of 3D Printed Parts,All shell and button components printed from STL files in repo,Printed in PLA on Bambu Lab X1C,https://github.com/femurdev/USBC-Nunchuk
+10,1,USB Port Cutout Assembly,Printed slot for USB access / integration with micro board,Part of 3D model set (not purchased),https://github.com/femurdev/USBC-Nunchuk
