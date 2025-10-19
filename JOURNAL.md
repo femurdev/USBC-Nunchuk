@@ -30,7 +30,7 @@ Here's what I have:
 ![Screenshot 2025-10-18 at 6.55.25 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzExNiwicHVyIjoiYmxvYl9pZCJ9fQ==--cd8f86f1f07e0e2e8ead2d12cf427b5c677cc543/Screenshot%202025-10-18%20at%206.55.25%E2%80%AFPM.png)
   
 
-## 10/19/2025 - Fabed and Finished  
+## 10/19/2025 8 AM - Fabed and Finished  
 
 ![img.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzExOCwicHVyIjoiYmxvYl9pZCJ9fQ==--b51dbe5c68e3e073b938156f87af2a85f617711f/img.jpg)
 ### Fab
@@ -40,4 +40,10 @@ I wrote some code, now it is finished. Not much else to say, it works like a cha
 Other than that, I printed, designed, and coded it. My ADHD won't allow me to revisit this for a bit. Everything just kinda worked. Don't ask me to take it apart, there's too much glue!
 ### Function
 I can press on both the Z and C buttons to change it into a pointer controller for my computer. The other mode is a wasd controller for games and stuff. Pressing the joy stick jumps and z and c are left and right click respectively.  
+
+## 10/19/2025 1 PM - Slight Recode  
+
+I recorded some things in a second CPP file that is now on the repo, go check it out! Please leave feedback or email me at femurdev@gmail.com if you make one of these! You van make one with an Arduino micro, a USB Cable, hot glue, and one of the generic kits like the one below:
+![IMG_3703.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQ1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--8d22e2fb1ccc26441e2775b4fa36b4cff442486c/IMG_3703.jpeg)
+  
 
